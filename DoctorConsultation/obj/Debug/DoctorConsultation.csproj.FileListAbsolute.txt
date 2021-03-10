@@ -1,0 +1,10 @@
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\bin\Debug\DoctorConsultation.exe.config
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\bin\Debug\DoctorConsultation.exe
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\bin\Debug\DoctorConsultation.pdb
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\obj\Debug\DoctorConsultation.csprojAssemblyReference.cache
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\obj\Debug\DoctorConsultation.Form1.resources
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\obj\Debug\DoctorConsultation.Properties.Resources.resources
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\obj\Debug\DoctorConsultation.csproj.GenerateResource.cache
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\obj\Debug\DoctorConsultation.csproj.CoreCompileInputs.cache
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\obj\Debug\DoctorConsultation.exe
+C:\Users\emem\source\repos\DoctorConsultation\DoctorConsultation\obj\Debug\DoctorConsultation.pdb
